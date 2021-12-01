@@ -1,6 +1,6 @@
 **Abstract**
 
-This study uncovered the UX of a Maltese utility provider (ARMS; Automated Revenue Management Services) by text-mining user-generated content (UGC) and user needs assessments on the initial application process. Apart from relying on the overall user experience expressed online, the current study detected UX attributes by using the first-time user experience (FTUE) as a gateway to develop actionable insights. For this, the study conducted word frequency analysis, topic modelling and sentiment analysis on 164 customer reviews and 2 user needs assessments. Findings from this study as as follows: 
+This study uncovered the UX of a Maltese utility provider (ARMS; Automated Revenue Management Services) by text-mining user-generated content (UGC) and user needs assessments on the initial application process. Apart from relying on the overall user experience expressed online, the current study detected UX attributes by using the first-time user experience (FTUE) as a gateway to develop actionable insights. For this, the study conducted word frequency analysis, topic modelling and sentiment analysis on 164 customer reviews and 3 user needs assessments. Findings from this study as as follows: 
 
 **UGC: Word Frequencies**
 
@@ -27,12 +27,13 @@ To further zone in on pain points, it is imperative to find the reviews and comm
 
 Participants prominently mentioned the word ‘service’ when describing their user journey from the initial application process, customer support and the final meter reading service. 
 
-Whilst bigram frequency analysis revealed that ‘filling forms’ and ‘customer support’ were integral to the user journey, trigram frequency analysis provided deeper insights into the level of user satisfaction:
+Whilst bigram frequency analysis revealed that ‘filling forms’ and ‘customer care’ were integral to the user journey, trigram frequency analysis provided deeper insights into the level of user satisfaction:
 
 4 trigrams related to performing archaic procedures during the application process
 3 trigrams related to lengthy duration of the application process
 3 trigrams related to customer care issues
-1 trigrams related to the lack of visibility of system status
+1 trigram related to the lack of visibility of system status
+1 trigram related to changing utilities to a new homeowner
 
 **User Needs Assessments: Topic Modelling**
 
@@ -45,19 +46,4 @@ Along with identifying consistent pain points in separate text mining analyses, 
 **Conclusion**
 
 This study found a consistent pattern of customer care issues across both UGC and user needs assessments. The chief causes of pain points reported in this study include a lack of digital capability to get closer to the user, company neglect of customer care management and misaligned UX urban design.  
-
-			
-				
-					
-				
-			
-		
-
-
-
-
-				
-			
-		
-
 
