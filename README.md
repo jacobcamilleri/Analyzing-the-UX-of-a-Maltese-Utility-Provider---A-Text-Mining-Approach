@@ -6,14 +6,14 @@ This study uncovered the UX of a Maltese utility provider (ARMS; Automated Reven
 
 ‘Bills’ and ‘paying bills’ were the most prominent unigram and bigram respectively. It is noteworthy to mention that billing errors by utility providers are a common bane to many customers and ultimately to the energy sector. As for the trigram frequency analysis, a thorough examination revealed the following data:
 
-13 trigrams related to negative customer care
-7 trigrams related to political references and scandals
-4 trigrams related to billing issues
-2 trigrams related to internet banking
-2 trigrams related to positive customer care
-1 trigram related to average customer care
-1 trigram related to the meter reading service
-1 trigram related to the Google Chrome Browser
+- 13 trigrams related to negative customer care
+- 7 trigrams related to political references and scandals
+- 4 trigrams related to billing issues
+- 2 trigrams related to internet banking
+- 2 trigrams related to positive customer care
+- 1 trigram related to average customer care
+- 1 trigram related to the meter reading service
+- 1 trigram related to the Google Chrome Browser
 
 **UGC: Topic Modelling**
 
@@ -29,11 +29,11 @@ Participants prominently mentioned the word ‘service’ when describing their 
 
 Whilst bigram frequency analysis revealed that ‘filling forms’ and ‘customer care’ were integral to the user journey, trigram frequency analysis provided deeper insights into the level of user satisfaction:
 
-4 trigrams related to performing archaic procedures during the application process
-3 trigrams related to lengthy duration of the application process
-3 trigrams related to customer care issues
-1 trigram related to the lack of visibility of system status
-1 trigram related to changing utilities to a new homeowner
+- 4 trigrams related to performing archaic procedures during the application process
+- 3 trigrams related to lengthy duration of the application process
+- 3 trigrams related to customer care issues
+- 1 trigram related to the lack of visibility of system status
+- 1 trigram related to changing utilities to a new homeowner
 
 **User Needs Assessments: Topic Modelling**
 
