@@ -1,6 +1,6 @@
 **Abstract**
 
-This study uncovered the UX of a Maltese utility provider (ARMS; Automated Revenue Management Services) by text-mining user-generated content (UGC) and user needs assessments on the initial application process. Apart from relying on the overall user experience expressed online, the current study detected UX attributes by using the first-time user experience (FTUE) as a gateway to develop actionable insights. For this, the study conducted word frequency analysis, topic modelling and sentiment analysis on 164 customer reviews and 3 user needs assessments. Findings from this study as as follows: 
+This study uncovered the UX of a Maltese utility provider (ARMS; Automated Revenue Management Services) by text-mining user-generated content (UGC) and user needs assessments on the initial application process. Apart from relying on the overall user experience expressed online, the current study detected UX attributes by using the first-time user experience (FTUE) as a gateway to develop actionable insights. For this, the study conducted word frequency analysis, topic modelling and sentiment analysis on 164 customer reviews and 5 user needs assessments. Findings from this study as as follows: 
 
 **UGC: Word Frequencies**
 
