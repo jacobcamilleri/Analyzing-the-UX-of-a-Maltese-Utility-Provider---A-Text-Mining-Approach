@@ -21,29 +21,25 @@ Based on the interpretation of the top-30 most relevant terms for topic 1, the i
 
 **UGC: Sentiment Analysis**
 
-To further zone in on pain points, it is imperative to find the reviews and comments with the worst sentiment scores. To this end, this study identified 4 statements with sentiment scores of -1 which pertain to office location, website usability, customer care and overall experience. 				
+To further zone in on pain points, it is imperative to find the reviews and comments with the worst sentiment scores. To this end, this study identified customer support and lack of visibility of system status as the worst paint points. 				
 	
 **User Needs Assessments: Word Frequencies**
 
-Participants prominently mentioned the word ‘service’ when describing their user journey from the initial application process, customer support and the final meter reading service. 
+Participants prominently mentioned the word ‘service’ and the bigram 'water and electricity' when describing their user needs and experiences. 'Paying bills' was another highly mentioned bigram posited to be one of the major paint points in this study. Lastly, the most prominent trigrams were as follows:
 
-Whilst bigram frequency analysis revealed that ‘filling forms’ and ‘customer care’ were integral to the user journey, trigram frequency analysis provided deeper insights into the level of user satisfaction:
-
-- 4 trigrams related to performing archaic procedures during the application process
-- 3 trigrams related to lengthy duration of the application process
-- 3 trigrams related to customer care issues
-- 1 trigram related to the lack of visibility of system status
-- 1 trigram related to changing utilities to a new homeowner
+- 'Every 2 months': Participants mentioned their frequency of website visits and timing inconsistencies when receiving utility bills
+- 'Previous Owner's Account': 2/5 participants applied for Form F (Registration for Change in Consumer)
+- 'ARMS Office Valletta': 2/5 participants opted to go in person and register at the ARMS office in Valletta
 
 **User Needs Assessments: Topic Modelling**
 
-Consistent with word frequency findings, the top-30 most relevant terms for topic 1 revealed that the application process took more time than expected due to customer care’s self-doubt on the provided service and users performing cumbersome and unintelligible procedures, both online and offline. 
+Consistent with word frequency findings, the top-30 most relevant terms for topic 1 revealed that ARMS' online presence and performance needs much improving across both desktop and mobile.
 
 **User Needs Assessments: Sentiment Analysis**
 
-Along with identifying consistent pain points in separate text mining analyses, sentiment analysis revealed a mistrust in online government services with a score of -0.5. PPT01 believes that government digital services are particularly prone to bad UX and more is needed to address spillover effects and add value to their users.
+Along with identifying consistent pain points in separate text mining analyses, sentiment analysis revealed ARMS' inconsistency in visibility of system status after applying and paying for a service as the worst paint point.
 
 **Conclusion**
 
-This study found a consistent pattern of customer care issues across both UGC and user needs assessments. The chief causes of pain points reported in this study include a lack of digital capability to get closer to the user, company neglect of customer care management and misaligned UX urban design.  
+This study found a consistent usability issues across both UGC and user needs assessments. The chief causes of pain points reported in this study include a lack of digital capability to get closer to the user and neglect of customer care management.
 
